@@ -1,2 +1,2 @@
-# uads_dockstore_app_test
+# unity-ads-dockstore-app-test
 Dummy repo for app registration w/in public Dockstore
