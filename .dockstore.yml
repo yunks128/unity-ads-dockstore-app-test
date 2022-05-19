@@ -4,6 +4,8 @@ workflows:
     subclass: CWL
     publish: true
     primaryDescriptorPath: /test.cwl
+    testParameterFiles:
+      - "/no_input.json"
     authors:
       - name: "Nick LaHaye"
         email: "nlahaye@jpl.nasa.gov"
