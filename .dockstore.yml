@@ -1,0 +1,10 @@
+version: 1.2
+workflows:
+  - name: "jpl-uads-test"
+    subclass: CWL
+    publish: true
+    primaryDescriptorPath: /uads_dockstore_app_test/test.cwl
+    authors:
+      - name: "Nick LaHaye"
+        email: "nlahaye@jpl.nasa.gov"
+    name: jpl-uads-test
